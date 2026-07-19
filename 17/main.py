@@ -13,4 +13,3 @@ for j in range(10):
         c = c + lst[num]
     print(c)
  
-6
